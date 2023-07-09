@@ -29,9 +29,9 @@ import { cars$, supplyValues } from '../index';
 */
 
 /* _____________ Your Code Here _____________ */
-const ouput$ = cars$.pipe();
+const output$ = cars$.pipe();
 
-ouput$.subscribe((car) => console.log(car));
+output$.subscribe((car) => console.log(car));
 
 /* _____________ Do Not Remove _____________ */
 supplyValues();

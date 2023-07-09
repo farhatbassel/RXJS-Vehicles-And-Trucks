@@ -3,7 +3,25 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "index": "ts-node src/index.ts",
+    "easy01": "ts-node src/easy/easy-01.ts",
+    "easy02": "ts-node src/easy/easy-02.ts",
+    "easy03": "ts-node src/easy/easy-03.ts",
+    "easy04": "ts-node src/easy/easy-04.ts",
+    "easy05": "ts-node src/easy/easy-05.ts",
+    "easy06": "ts-node src/easy/easy-06.ts",
+    "easy07": "ts-node src/easy/easy-07.ts",
+    "easy08": "ts-node src/easy/easy-08.ts",
+    "easy09": "ts-node src/easy/easy-09.ts",
+    "hard01": "ts-node src/hard/hard-01.ts",
+    "hard02": "ts-node src/hard/hard02.ts",
+    "hard03": "ts-node src/hard/hard03.ts",
+    "hard04": "ts-node src/hard/hard04.ts",
+    "hard05": "ts-node src/hard/hard05.ts",
+    "hard06": "ts-node src/hard/hard06.ts",
+    "hard07": "ts-node src/hard/hard07.ts",
+    "hard08": "ts-node src/hard/hard08.ts",
+    "hard09": "ts-node src/hard/hard09.ts"
   },
   "dependencies": {
     "rxjs": "latest"
